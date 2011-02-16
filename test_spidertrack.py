@@ -7,16 +7,21 @@ class TestLiveTracker(unittest.TestCase):
 
 	def setUp(self):
 		self.kml_data = open("test_kml.kml").read()
-		self.doc = pyspeed.LiveFeedDocument(self.kml_data)
+		self.doc = pyspeed.LiveFeedDocument(self.kml_data, "EAA B-17")
 	
 	def testParseNoneInit(self):
-		doc = pyspeed.LiveFeedDocument(None)
+		doc = pyspeed.LiveFeedDocument(None, None)
 		self.assert_(doc.placemarks == None, "Check that doc is None for None data")
 
 	def testKmlParse(self):
+		self.doc = pyspeed.LiveFeedDocument(self.kml_data, "EAA B-17")
 		self.assert_(self.doc.placemarks != None, "Check that placemarks is not none")
 		self.assert_(len(self.doc.placemarks) == 13, "Check correct number of placemarks found")
-	
+		
+		self.doc = pyspeed.LiveFeedDocument(self.kml_data, "Open Country")
+		self.assert_(self.doc.placemarks != None, "Check that placemarks is not none")
+		self.assert_(len(self.doc.placemarks) == 156, "Check correct number of placemarks found")
+
 	def testLastPosition(self):
 		
 		p = self.doc.last_position()
@@ -27,6 +32,8 @@ class TestLiveTracker(unittest.TestCase):
 		d = datetime(2010, 11, 29, 20, 38, 50)
 		self.assert_(p.time == d, "Check correct time")
 
+		self.doc = pyspeed.LiveFeedDocument(self.kml_data, "Open Country")
+		p = self.doc.last_position()
 		for cur_p in self.doc.placemarks:
 			self.assert_(cur_p.time <= p.time, "Check that placemark is last in time")
 	
@@ -49,6 +56,7 @@ class TestLivePosition(unittest.TestCase):
 	
 	def testParseDescriptionstring(self):
 		s = "Speed:0, Altitude:242, Heading:253, Description:"
-		heading = LivePosition.parse_descriptionstring(s)
-		self.assert_(heading == 253, "Test Correct heading")
+		(sog, cog) = LivePosition.parse_descriptionstring(s)
+		self.assert_(cog == 253, "Test Correct heading")
+		self.assert_(sog == 0.0, "Test correct sog")
 

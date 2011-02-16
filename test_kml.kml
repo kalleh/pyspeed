@@ -44,6 +44,1738 @@
       </IconStyle>
     </Style>
     <Folder>
+      <name>Track for 'Open Country'</name>
+      <visibility>true</visibility>
+      <Placemark>
+        <name>Track Line for 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#redLine</styleUrl>
+        <description>Start Time: 2011-02-03 04:17:00 UTC, End Time: 2011-02-04 05:12:00 UTC</description>
+        <LineString>
+          <extrude>false</extrude>
+          <tessellate>true</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>175.773546666667,-36.600683333333,7.000000000000  175.773548333333,-36.600730000000,9.000000000000  175.773531666667,-36.600670000000,9.000000000000  175.773530000000,-36.600713333333,9.000000000000  175.773538333333,-36.600741666667,8.000000000000  175.773548333333,-36.600696666667,9.000000000000  175.773531666667,-36.600673333333,8.000000000000  175.773510000000,-36.600651666667,9.000000000000  175.775033333333,-36.602953333333,9.000000000000  175.772263333333,-36.607401666667,8.000000000000  175.764421666667,-36.606968333333,10.000000000000  175.756881666667,-36.605828333333,12.000000000000  175.749111666667,-36.604636666667,11.000000000000  175.740956666667,-36.603805000000,10.000000000000  175.732421666667,-36.603750000000,11.000000000000  175.722955000000,-36.600951666667,10.000000000000  175.713690000000,-36.598203333333,10.000000000000  175.704286666667,-36.595258333333,10.000000000000  175.695175000000,-36.592256666667,11.000000000000  175.685595000000,-36.589043333333,10.000000000000  175.676440000000,-36.584626666667,12.000000000000  175.667846666667,-36.580353333333,13.000000000000  175.659145000000,-36.576101666667,13.000000000000  175.650301666667,-36.571595000000,14.000000000000  175.640608333333,-36.567205000000,14.000000000000  175.630585000000,-36.562113333333,13.000000000000  175.619791666667,-36.557653333333,14.000000000000  175.609320000000,-36.553168333333,13.000000000000  175.599400000000,-36.548480000000,14.000000000000  175.589970000000,-36.543986666667,15.000000000000  175.580448333333,-36.538951666667,14.000000000000  175.571363333333,-36.534665000000,15.000000000000  175.562753333333,-36.530300000000,15.000000000000  175.554426666667,-36.526340000000,16.000000000000  175.546160000000,-36.521608333333,15.000000000000  175.538931666667,-36.515196666667,16.000000000000  175.530956666667,-36.510686666667,15.000000000000  175.523330000000,-36.505733333333,14.000000000000  175.515040000000,-36.499955000000,15.000000000000  175.507166666667,-36.493820000000,14.000000000000  175.498640000000,-36.488126666667,15.000000000000  175.489993333333,-36.483161666667,15.000000000000  175.481615000000,-36.477725000000,15.000000000000  175.472608333333,-36.472356666667,15.000000000000  175.463901666667,-36.466990000000,13.000000000000  175.455158333333,-36.461886666667,13.000000000000  175.445473333333,-36.457040000000,14.000000000000  175.435566666667,-36.452491666667,14.000000000000  175.426370000000,-36.447363333333,14.000000000000  175.417450000000,-36.442568333333,13.000000000000  175.408375000000,-36.438001666667,10.000000000000  175.399283333333,-36.434823333333,11.000000000000  175.389715000000,-36.431761666667,11.000000000000  175.380486666667,-36.428848333333,12.000000000000  175.370955000000,-36.425971666667,12.000000000000  175.362546666667,-36.422130000000,11.000000000000  175.353955000000,-36.418245000000,11.000000000000  175.345081666667,-36.414805000000,13.000000000000  175.336553333333,-36.412038333333,14.000000000000  175.327766666667,-36.408656666667,11.000000000000  175.319915000000,-36.405561666667,15.000000000000  175.311435000000,-36.401945000000,11.000000000000  175.302496666667,-36.398966666667,10.000000000000  175.293091666667,-36.396026666667,10.000000000000  175.283716666667,-36.393115000000,10.000000000000  175.274531666667,-36.390618333333,10.000000000000  175.265261666667,-36.387806666667,13.000000000000  175.255866666667,-36.385240000000,13.000000000000  175.246320000000,-36.382726666667,15.000000000000  175.236815000000,-36.380136666667,17.000000000000  175.227946666667,-36.379626666667,14.000000000000  175.225606666667,-36.388408333333,12.000000000000  175.223143333333,-36.397146666667,13.000000000000  175.220455000000,-36.405741666667,13.000000000000  175.218010000000,-36.414486666667,13.000000000000  175.215773333333,-36.423048333333,12.000000000000  175.213456666667,-36.431500000000,14.000000000000  175.210768333333,-36.439543333333,13.000000000000  175.207363333333,-36.447206666667,13.000000000000  175.203885000000,-36.454606666667,11.000000000000  175.200171666667,-36.462475000000,10.000000000000  175.196281666667,-36.470190000000,14.000000000000  175.192236666667,-36.477536666667,12.000000000000  175.188190000000,-36.484840000000,11.000000000000  175.184125000000,-36.492156666667,10.000000000000  175.179881666667,-36.499295000000,11.000000000000  175.175606666667,-36.506465000000,10.000000000000  175.171165000000,-36.513548333333,10.000000000000  175.166231666667,-36.521216666667,10.000000000000  175.161291666667,-36.529126666667,11.000000000000  175.156400000000,-36.536781666667,10.000000000000  175.151671666667,-36.544013333333,9.000000000000  175.147226666667,-36.550893333333,11.000000000000  175.142713333333,-36.557881666667,10.000000000000  175.138350000000,-36.564960000000,11.000000000000  175.134150000000,-36.571605000000,11.000000000000  175.129875000000,-36.578590000000,11.000000000000  175.125521666667,-36.585586666667,11.000000000000  175.121225000000,-36.592823333333,11.000000000000  175.116546666667,-36.599731666667,11.000000000000  175.112135000000,-36.606686666667,9.000000000000  175.107398333333,-36.614176666667,8.000000000000  175.102651666667,-36.621870000000,8.000000000000  175.097993333333,-36.629905000000,10.000000000000  175.092973333333,-36.637805000000,11.000000000000  175.088023333333,-36.645760000000,10.000000000000  175.083213333333,-36.653795000000,11.000000000000  175.078898333333,-36.661696666667,9.000000000000  175.073821666667,-36.669513333333,11.000000000000  175.068593333333,-36.677480000000,12.000000000000  175.062733333333,-36.684920000000,11.000000000000  175.056845000000,-36.692105000000,12.000000000000  175.050860000000,-36.699420000000,12.000000000000  175.044491666667,-36.706678333333,12.000000000000  175.037875000000,-36.714043333333,11.000000000000  175.031036666667,-36.721308333333,12.000000000000  175.023565000000,-36.727865000000,11.000000000000  175.015661666667,-36.733928333333,10.000000000000  175.008295000000,-36.739656666667,9.000000000000  175.001291666667,-36.744720000000,8.000000000000  174.994223333333,-36.749645000000,9.000000000000  174.987303333333,-36.754560000000,8.000000000000  174.980521666667,-36.759225000000,7.000000000000  174.973830000000,-36.763868333333,7.000000000000  174.966695000000,-36.768986666667,8.000000000000  174.959836666667,-36.774186666667,9.000000000000  174.953365000000,-36.779160000000,8.000000000000  174.946418333333,-36.784145000000,7.000000000000  174.938855000000,-36.789318333333,6.000000000000  174.930793333333,-36.794735000000,6.000000000000  174.923328333333,-36.801838333333,7.000000000000  174.916280000000,-36.808901666667,7.000000000000  174.909085000000,-36.815761666667,9.000000000000  174.901315000000,-36.820545000000,3.000000000000  174.891165000000,-36.816805000000,2.000000000000  174.880910000000,-36.813298333333,4.000000000000  174.872271666667,-36.813976666667,8.000000000000  174.863966666667,-36.819703333333,8.000000000000  174.855298333333,-36.824986666667,9.000000000000  174.847023333333,-36.830785000000,8.000000000000  174.838798333333,-36.828233333333,8.000000000000  174.830096666667,-36.823335000000,9.000000000000  174.821396666667,-36.828368333333,9.000000000000  174.811191666667,-36.834210000000,9.000000000000  174.800476666667,-36.839605000000,10.000000000000  174.791315000000,-36.835051666667,11.000000000000  174.780601666667,-36.837896666667,10.000000000000  174.770610000000,-36.835283333333,10.000000000000  174.760325000000,-36.831885000000,11.000000000000  174.750536666667,-36.831026666667,12.000000000000  174.748796666667,-36.835758333333,11.000000000000  174.745113333333,-36.837918333333,12.000000000000  174.744708333333,-36.838791666667,12.000000000000  174.744698333333,-36.838803333333,12.000000000000  174.744696666667,-36.838801666667,14.000000000000  174.744703333333,-36.838795000000,10.000000000000 </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 16:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:7, Heading:73, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.773546666667,-36.600683333333,7.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 16:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:9, Heading:151, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.773548333333,-36.600730000000,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 16:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:9, Heading:228, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.773531666667,-36.600670000000,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 16:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:9, Heading:217, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.773530000000,-36.600713333333,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 16:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:8, Heading:184, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.773538333333,-36.600741666667,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 16:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:9, Heading:76, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.773548333333,-36.600696666667,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 16:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:8, Heading:154, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.773531666667,-36.600673333333,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 16:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:9, Heading:43, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.773510000000,-36.600651666667,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 16:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:9, Heading:155, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.775033333333,-36.602953333333,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:4, Altitude:8, Heading:269, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.772263333333,-36.607401666667,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:4, Altitude:10, Heading:280, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.764421666667,-36.606968333333,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:4, Altitude:12, Heading:280, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.756881666667,-36.605828333333,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:4, Altitude:11, Heading:286, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.749111666667,-36.604636666667,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:10, Heading:268, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.740956666667,-36.603805000000,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:11, Heading:291, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.732421666667,-36.603750000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:294, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.722955000000,-36.600951666667,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:10, Heading:296, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.713690000000,-36.598203333333,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:294, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.704286666667,-36.595258333333,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:290, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.695175000000,-36.592256666667,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:10, Heading:308, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.685595000000,-36.589043333333,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 17:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:12, Heading:307, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.676440000000,-36.584626666667,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:304, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.667846666667,-36.580353333333,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:303, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.659145000000,-36.576101666667,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:14, Heading:304, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.650301666667,-36.571595000000,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:14, Heading:305, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.640608333333,-36.567205000000,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:13, Heading:300, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.630585000000,-36.562113333333,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:14, Heading:306, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.619791666667,-36.557653333333,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:13, Heading:305, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.609320000000,-36.553168333333,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:14, Heading:299, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.599400000000,-36.548480000000,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:8, Altitude:15, Heading:312, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.589970000000,-36.543986666667,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:14, Heading:301, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.580448333333,-36.538951666667,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:15, Heading:307, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.571363333333,-36.534665000000,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 18:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:15, Heading:300, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.562753333333,-36.530300000000,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:16, Heading:302, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.554426666667,-36.526340000000,16.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:15, Heading:307, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.546160000000,-36.521608333333,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:16, Heading:315, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.538931666667,-36.515196666667,16.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:15, Heading:310, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.530956666667,-36.510686666667,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:14, Heading:310, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.523330000000,-36.505733333333,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:15, Heading:322, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.515040000000,-36.499955000000,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:14, Heading:316, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.507166666667,-36.493820000000,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:15, Heading:326, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.498640000000,-36.488126666667,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:15, Heading:306, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.489993333333,-36.483161666667,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:15, Heading:317, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.481615000000,-36.477725000000,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:15, Heading:313, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.472608333333,-36.472356666667,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 19:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:307, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.463901666667,-36.466990000000,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:309, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.455158333333,-36.461886666667,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:14, Heading:303, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.445473333333,-36.457040000000,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:14, Heading:299, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.435566666667,-36.452491666667,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:14, Heading:303, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.426370000000,-36.447363333333,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:302, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.417450000000,-36.442568333333,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:301, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.408375000000,-36.438001666667,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:287, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.399283333333,-36.434823333333,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:296, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.389715000000,-36.431761666667,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:12, Heading:297, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.380486666667,-36.428848333333,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:12, Heading:300, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.370955000000,-36.425971666667,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:11, Heading:294, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.362546666667,-36.422130000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 20:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:309, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.353955000000,-36.418245000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:305, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.345081666667,-36.414805000000,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:14, Heading:289, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.336553333333,-36.412038333333,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:11, Heading:292, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.327766666667,-36.408656666667,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:4, Altitude:15, Heading:298, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.319915000000,-36.405561666667,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:11, Heading:293, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.311435000000,-36.401945000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:293, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.302496666667,-36.398966666667,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:292, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.293091666667,-36.396026666667,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:295, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.283716666667,-36.393115000000,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:289, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.274531666667,-36.390618333333,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:13, Heading:280, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.265261666667,-36.387806666667,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:293, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.255866666667,-36.385240000000,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 21:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:15, Heading:292, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.246320000000,-36.382726666667,15.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:17, Heading:300, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.236815000000,-36.380136666667,17.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:14, Heading:206, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.227946666667,-36.379626666667,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:12, Heading:197, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.225606666667,-36.388408333333,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:193, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.223143333333,-36.397146666667,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:184, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.220455000000,-36.405741666667,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:195, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.218010000000,-36.414486666667,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:12, Heading:194, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.215773333333,-36.423048333333,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:14, Heading:186, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.213456666667,-36.431500000000,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:13, Heading:205, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.210768333333,-36.439543333333,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:13, Heading:200, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.207363333333,-36.447206666667,13.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:200, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.203885000000,-36.454606666667,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 22:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:209, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.200171666667,-36.462475000000,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:14, Heading:207, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.196281666667,-36.470190000000,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:12, Heading:206, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.192236666667,-36.477536666667,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:202, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.188190000000,-36.484840000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:211, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.184125000000,-36.492156666667,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:11, Heading:211, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.179881666667,-36.499295000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:207, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.175606666667,-36.506465000000,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:210, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.171165000000,-36.513548333333,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:208, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.166231666667,-36.521216666667,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:210, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.161291666667,-36.529126666667,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:210, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.156400000000,-36.536781666667,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:9, Heading:207, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.151671666667,-36.544013333333,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-03 23:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:204, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.147226666667,-36.550893333333,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:205, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.142713333333,-36.557881666667,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:206, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.138350000000,-36.564960000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:11, Heading:203, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.134150000000,-36.571605000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:198, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.129875000000,-36.578590000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:11, Heading:205, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.125521666667,-36.585586666667,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:11, Heading:215, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.121225000000,-36.592823333333,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:201, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.116546666667,-36.599731666667,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:9, Heading:200, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.112135000000,-36.606686666667,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:8, Heading:208, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.107398333333,-36.614176666667,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:8, Heading:211, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.102651666667,-36.621870000000,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:208, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.097993333333,-36.629905000000,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 00:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:11, Heading:206, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.092973333333,-36.637805000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:210, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.088023333333,-36.645760000000,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:201, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.083213333333,-36.653795000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:9, Heading:208, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.078898333333,-36.661696666667,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:11, Heading:209, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.073821666667,-36.669513333333,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:12, Heading:217, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.068593333333,-36.677480000000,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:213, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.062733333333,-36.684920000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:12, Heading:216, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.056845000000,-36.692105000000,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:12, Heading:218, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.050860000000,-36.699420000000,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:12, Heading:214, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.044491666667,-36.706678333333,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:11, Heading:210, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.037875000000,-36.714043333333,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:12, Heading:222, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.031036666667,-36.721308333333,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 01:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:229, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.023565000000,-36.727865000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:10, Heading:223, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.015661666667,-36.733928333333,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:9, Heading:227, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.008295000000,-36.739656666667,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:8, Heading:227, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>175.001291666667,-36.744720000000,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:9, Heading:227, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.994223333333,-36.749645000000,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:8, Heading:224, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.987303333333,-36.754560000000,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:7, Heading:227, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.980521666667,-36.759225000000,7.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:7, Heading:227, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.973830000000,-36.763868333333,7.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:8, Heading:229, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.966695000000,-36.768986666667,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:9, Heading:228, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.959836666667,-36.774186666667,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:5, Altitude:8, Heading:223, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.953365000000,-36.779160000000,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:7, Heading:228, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.946418333333,-36.784145000000,7.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 02:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:6, Heading:226, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.938855000000,-36.789318333333,6.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:6, Heading:233, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.930793333333,-36.794735000000,6.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:7, Heading:220, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.923328333333,-36.801838333333,7.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:7, Heading:218, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.916280000000,-36.808901666667,7.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:9, Heading:223, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.909085000000,-36.815761666667,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:3, Heading:294, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.901315000000,-36.820545000000,3.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:2, Heading:293, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.891165000000,-36.816805000000,2.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:4, Heading:294, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.880910000000,-36.813298333333,4.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:8, Heading:232, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.872271666667,-36.813976666667,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:8, Heading:229, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.863966666667,-36.819703333333,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:9, Heading:231, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.855298333333,-36.824986666667,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:8, Heading:230, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.847023333333,-36.830785000000,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 03:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:8, Heading:309, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.838798333333,-36.828233333333,8.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:9, Heading:295, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.830096666667,-36.823335000000,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:9, Heading:226, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.821396666667,-36.828368333333,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:8, Altitude:9, Heading:244, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.811191666667,-36.834210000000,9.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:17:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:10, Heading:231, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.800476666667,-36.839605000000,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:22:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:11, Heading:312, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.791315000000,-36.835051666667,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:27:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:10, Heading:239, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.780601666667,-36.837896666667,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:32:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:7, Altitude:10, Heading:296, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.770610000000,-36.835283333333,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:37:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:6, Altitude:11, Heading:277, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.760325000000,-36.831885000000,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:42:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:4, Altitude:12, Heading:281, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.750536666667,-36.831026666667,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:47:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:4, Altitude:11, Heading:137, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.748796666667,-36.835758333333,11.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:52:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:3, Altitude:12, Heading:196, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.745113333333,-36.837918333333,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 04:57:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:12, Heading:145, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.744708333333,-36.838791666667,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 05:02:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:12, Heading:168, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.744698333333,-36.838803333333,12.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 05:07:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:14, Heading:158, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.744696666667,-36.838801666667,14.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2011-02-04 05:12:00 UTC in 'Open Country'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:10, Heading:140, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>174.744703333333,-36.838795000000,10.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
       <name>Track for 'EAA B-17'</name>
       <visibility>true</visibility>
       <Placemark>

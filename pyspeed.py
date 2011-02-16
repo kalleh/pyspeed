@@ -11,9 +11,13 @@ class LivePosition(object):
 		self.lon = 0.0
 		self.height = 0.0
 		self.cog = 0.0
+		self.sog = 0.0
 		self.time = None
 		self.feed_id = ""
 
+	def __repr__(self):
+		return "Liveposition(lat=%s, lon=%s, height=%s, cog=%s, time=%s, feed_id=%s" % \
+		                     (self.lat, self.lon, self.height, self.cog, self.time, self.feed_id)
 	@staticmethod
 	def from_placemark_node(pmark_node):
 		name = pmark_node.findtext("{http://www.opengis.net/kml/2.2}name")
@@ -26,15 +30,16 @@ class LivePosition(object):
 		p = LivePosition()
 		(p.feed_id, p.time) = LivePosition.parse_namestring(name)
 		(p.lon, p.lat, p.height) = LivePosition.parse_coordstring(coordstring)
-		p.heading = LivePosition.parse_descriptionstring(description)
+		(p.sog, p.cog) = LivePosition.parse_descriptionstring(description)
 		return p
 
 
 	@staticmethod
 	def parse_descriptionstring(desc_str):
-		m = re.match(".*Heading:(?P<heading>[0-9]+)", desc_str)
-		heading = float(m.group("heading"))
-		return heading
+		m = re.match("Speed:(?P<sog>[0-9]+).*Heading:(?P<heading>[0-9]+)", desc_str)
+		cog = float(m.group("heading"))
+		sog = float(m.group("sog"))
+		return (sog, cog)
 
 
 	@staticmethod
@@ -59,8 +64,8 @@ class LivePosition(object):
 
 class LiveFeedDocument(object):
 
-	def __init__(self, kml_data):
-		
+	def __init__(self, kml_data, feed_id):
+		self.feed_id = feed_id
 		self.placemarks = self._parse_kml(kml_data)
 
 
@@ -69,9 +74,18 @@ class LiveFeedDocument(object):
 			return None
 		
 		doc = ET.parse(StringIO(kml_data)).getroot()
-		placemark_nodes = doc.findall("{http://www.opengis.net/kml/2.2}Document/" + \
-								 "{http://www.opengis.net/kml/2.2}Folder/" + \
-								 "{http://www.opengis.net/kml/2.2}Placemark")
+		folders = doc.findall("{http://www.opengis.net/kml/2.2}Document/" + \
+								 "{http://www.opengis.net/kml/2.2}Folder/")
+		folder = None
+		id_str = "Track for '%s'" % self.feed_id
+		for f in folders:
+			if f.findtext("{http://www.opengis.net/kml/2.2}name") == id_str:
+				folder = f
+				break
+		if folder == None:
+			raise Exception("Cannot find track with id=" % (self.feed_id,))
+
+		placemark_nodes = folder.findall("{http://www.opengis.net/kml/2.2}Placemark")
 		placemarks = []
 		for pnode in placemark_nodes:
 			p = LivePosition.from_placemark_node(pnode)
@@ -100,8 +114,9 @@ class FeedCommunicator(object):
 												self.password)).replace("\n", "")
 		request.add_header("Authorization", "Basic %s" % (b64creds,))
 
-		data = urllib2.urlopen(request)
-
+		con = urllib2.urlopen(request)
+		data = con.read()
+		con.close()
 		return data
 
 
