@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Your SpiderSummaries</name>
+    <open>true</open>
+    <description>SpiderSummaries for Sailport AB</description>
+    <Style id="redLine">
+      <LineStyle>
+        <color>FF0000FF</color>
+        <colorMode>normal</colorMode>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="redMarker">
+      <IconStyle>
+        <scale>0.4</scale>
+        <Icon>
+          <href>http://app.spidertracks.com/Content/Images/Markers/red.gif</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="greenMarker">
+      <IconStyle>
+        <scale>0.4</scale>
+        <Icon>
+          <href>http://app.spidertracks.com/Content/Images/Markers/green.gif</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="blueMarker">
+      <IconStyle>
+        <scale>0.4</scale>
+        <Icon>
+          <href>http://app.spidertracks.com/Content/Images/Markers/blue.gif</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="purpleMarker">
+      <IconStyle>
+        <scale>0.4</scale>
+        <Icon>
+          <href>http://app.spidertracks.com/Content/Images/Markers/purple.gif</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Track for 'EAA B-17'</name>
+      <visibility>true</visibility>
+      <Placemark>
+        <name>Track Line for 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#redLine</styleUrl>
+        <description>Start Time: 2010-11-29 08:14:50 UTC, End Time: 2010-11-29 08:38:50 UTC</description>
+        <LineString>
+          <extrude>false</extrude>
+          <tessellate>true</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-88.566910000000,43.994753333333,242.000000000000  -88.566905000000,43.994766666667,246.000000000000  -88.566895000000,43.994763333333,241.000000000000  -88.566895000000,43.994755000000,240.000000000000  -88.566900000000,43.994760000000,237.000000000000  -88.566903333333,43.994753333333,234.000000000000  -88.566920000000,43.994760000000,238.000000000000  -88.566911666667,43.994773333333,237.000000000000  -88.566901666667,43.994763333333,236.000000000000  -88.566896666667,43.994761666667,237.000000000000  -88.566905000000,43.994776666667,237.000000000000  -88.566930000000,43.994780000000,242.000000000000  -88.566913333333,43.994776666667,239.000000000000 </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:14:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:242, Heading:156, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566910000000,43.994753333333,242.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:16:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:246, Heading:157, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566905000000,43.994766666667,246.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:18:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:241, Heading:135, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566895000000,43.994763333333,241.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:20:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:240, Heading:149, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566895000000,43.994755000000,240.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:22:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:237, Heading:137, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566900000000,43.994760000000,237.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:24:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:234, Heading:141, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566903333333,43.994753333333,234.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:26:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:238, Heading:266, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566920000000,43.994760000000,238.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:28:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:237, Heading:246, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566911666667,43.994773333333,237.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:30:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:236, Heading:197, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566901666667,43.994763333333,236.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:32:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:237, Heading:329, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566896666667,43.994761666667,237.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:34:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:237, Heading:270, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566905000000,43.994776666667,237.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:36:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:242, Heading:253, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566930000000,43.994780000000,242.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2010-11-29 20:38:50 UTC in 'EAA B-17'</name>
+        <visibility>true</visibility>
+        <styleUrl>#greenMarker</styleUrl>
+        <description>Speed:0, Altitude:239, Heading:84, Description:</description>
+        <Point>
+          <extrude>false</extrude>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-88.566913333333,43.994776666667,239.000000000000 </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
