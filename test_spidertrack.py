@@ -1,16 +1,16 @@
 import unittest
-import spidertrack
-from spidertrack import LivePosition
+import pyspeed
+from pyspeed import LivePosition
 from datetime import datetime
 
 class TestLiveTracker(unittest.TestCase):
 
 	def setUp(self):
 		self.kml_data = open("test_kml.kml").read()
-		self.doc = spidertrack.LiveFeedDocument(self.kml_data)
+		self.doc = pyspeed.LiveFeedDocument(self.kml_data)
 	
 	def testParseNoneInit(self):
-		doc = spidertrack.LiveFeedDocument(None)
+		doc = pyspeed.LiveFeedDocument(None)
 		self.assert_(doc.placemarks == None, "Check that doc is None for None data")
 
 	def testKmlParse(self):
